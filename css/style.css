@@ -4,6 +4,27 @@ body, html {
     font-family: 'TildaSans', Arial, sans-serif;
 }
 
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: white; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: rgba(136,136,136,0.58); 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
+
+/* Swiper */
 .swiper {
     width: 100%;
     height: 100%;
@@ -21,6 +42,7 @@ body, html {
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, 0.4);
+    z-index: 1;
 }
 
 .swiper-pagination-bullet {
@@ -40,11 +62,10 @@ body, html {
 }
 
 .swiper_more {
-    position: absolute;
     display: flex;
     justify-content: center;
     width: 100%;
-    top: 87%;
+    z-index: 1;
 }
 
 .swiper-slide a {
@@ -60,27 +81,41 @@ body, html {
 
 .swiper_text_1 {
     color: white;
-    position: absolute;
     display: flex;
     justify-content: center;
     width: 100%;
-    top: 30%;
     font-weight: 700;
     font-size: 60px;
     text-align: center;
+    z-index: 1;
 }
 
 .swiper_text_2 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    z-index: 1;
+}
+
+.swiper__text-block {
+    top: 20%;
     color: white;
     position: absolute;
     display: flex;
     justify-content: center;
     width: 100%;
-    top: 50%;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 60px;
     text-align: center;
+    z-index: 1;
+    flex-direction: column;
+    gap: 50px;
 }
+/* Swiper End */
 
 /* BEM */
 
@@ -90,7 +125,7 @@ body, html {
     display: flex;
     background-color: #144d03;
     margin: 0;
-    padding: 0 20%;
+    padding: 0px 11%;
 }
 
 .header__menu_height-inherit {
@@ -108,21 +143,118 @@ body, html {
     align-items: center;
 }
 
-.header .header__menuitem_flex-item a {
+.header .header__menuitem_flex-item span {
+    color: white;
+    border: none;
+}
+
+.header__menuitem_flex-item:hover span button {
+    color: #f0c878;
+    cursor: unset;
+}
+/* Header End*/
+
+
+/* Footer */
+.footer {
+    height: 200px;
+    background-color: rgba(0,2,3,0.8);
+    display: flex;
+    padding: 30px 11%;
+}
+
+.footer .footer__item {
+    flex-grow: 1;
+}
+
+.footer .footer__item a {
     text-decoration: none;
     color: white;
 }
 
-.header .header__menuitem_flex-item a:hover {
+.footer .footer__item a:hover {
+    text-decoration: none;
     color: #f0c878;
 }
-/* Header End*/
+/* Footer End*/
 
-
-/* Header */
-.footer {
-    width: 100%;
-    height: 200px;
-    background-color: rgb(92,160,47);
+.subsections {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+    display: inline-flex;
+    justify-content: center;
 }
-/* Header End*/
+
+.subsections .menu {
+    visibility: hidden;
+    width: 300px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    opacity: 0;
+    transition: opacity 0.1s;
+    top: 45px;
+    display: flex;
+    justify-content: center;
+}
+
+.header__menuitem_flex-item:hover .menu {
+    visibility: visible;
+    opacity: 1;
+    background-color: white;
+    z-index: 2;
+    position: absolute;
+}
+
+/* Menu subsections */
+.menu-subsections {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    line-height: 30px;
+    padding: 0 20px;
+}
+
+.menu-subsections menuitem a {
+    color: black;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.menu-subsections menuitem a:hover {
+    color: rgb(112,163,105);
+    text-decoration: none;
+}
+
+.subsection-btn {
+    background-color: transparent;
+    border: none;
+    font-size: 17px;
+    font-weight: 500;
+    color: white;
+}
+/* Menu subsections End */
+
+.block-for-square {
+    background-color: transparent;
+    height: 42px;
+    position: absolute;
+    width: 100%;
+    top: -15px;
+    display: flex;
+    justify-content: center;
+}
+
+.square {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    position: absolute;
+    top: 5px;
+    rotate: 45deg;
+}
