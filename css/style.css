@@ -7,15 +7,98 @@ body, html {
 .swiper {
     width: 100%;
     height: 100%;
-  }
+}
+
+.swiper img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    object-position: right;
+}
+
+.swiper_background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.swiper-pagination-bullet {
+    background-color: white !important;
+}
+
+.swiper-button-prev, .swiper-button-next {
+    color: white !important;
+}
+
+.swiper-slide {
+    height: calc(100% - 50px);
+}
+
+.slider_height {
+    height: calc(100vh - 50px);
+}
+
+.swiper_more {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    top: 87%;
+}
+
+.swiper-slide a {
+    color: #144d03;
+    border: 0px solid #ffffff;
+    background-color: #ff9d00;
+    font-size: 19px;
+    font-weight: 600;
+    padding: 30px 60px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.swiper_text_1 {
+    color: white;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    top: 30%;
+    font-weight: 700;
+    font-size: 60px;
+    text-align: center;
+}
+
+.swiper_text_2 {
+    color: white;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    top: 50%;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+}
 
 /* BEM */
 
-.header .header__menu_flex-container_color {
+/* Header */
+.header .header__menu_flex-container {
+    height: inherit;
     display: flex;
     background-color: #144d03;
     margin: 0;
-    padding: 5px 20%;
+    padding: 0 20%;
+}
+
+.header__menu_height-inherit {
+    height: inherit;
+}
+
+.header_height {
+    height: 50px;
 }
 
 .header .header__menuitem_flex-item {
@@ -33,15 +116,13 @@ body, html {
 .header .header__menuitem_flex-item a:hover {
     color: #f0c878;
 }
+/* Header End*/
 
-.swiper-slide-1 {
-    background-image: url('img/neyrokorrekciya.jpg');
-}
 
-.swiper-slide-2 {
-    background-image: url('img/photo.jpg');
+/* Header */
+.footer {
+    width: 100%;
+    height: 200px;
+    background-color: rgb(92,160,47);
 }
-
-.swiper-slide-3 {
-    background-image: url('img/photo_2022-10-20_15-.jpg');
-}
+/* Header End*/
