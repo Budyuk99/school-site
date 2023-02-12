@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css">
 
-    <title>Ashot School</title>
+    <title>STOP заикание</title>
 </head>
 <body>
     <header class="header header_height">
@@ -87,10 +87,10 @@
                                 <div class="square"></div>
                             </div>
                             <menu class="menu-subsections">
-                                <menuitem><a href="#">Запуск речи</a></menuitem>
-                                <menuitem><a href="#">Коррекция звукопроизношения</a></menuitem>
-                                <menuitem><a href="#">Логопедический массаж</a></menuitem>
-                                <menuitem><a href="#">Stop заикание</a></menuitem>
+                                <menuitem><a href="#">Часто задаваемые вопросы</a></menuitem>
+                                <menuitem><a href="#">Отзывы</a></menuitem>
+                                <menuitem><a href="#">Как нас найти?</a></menuitem>
+                                <menuitem><a href="#">Контакты</a></menuitem>
                             </menu>
                         </div>
                     </span>
@@ -99,72 +99,55 @@
         </div>
     </header>
 
-    <section class="slider slider_height">
-        <!-- Slider main container -->
-        <div class="swiper">
-            <!-- Additional required wrapper -->
-            <div class="swiper-wrapper">
-                <!-- Slides -->
-                <div class="swiper-slide">
-                    <div class="swiper_background"></div>
-                    <img src="img/neyrokorrekciya.jpg" alt="neyrokorrekciya">
-                    <div class="swiper__text-block">
-                        <div class="swiper_text_1">
-                            <span>ЗАПУСК РЕЧИ У НЕГОВОРЯЩИХ ДЕТЕЙ ОТ НУЛЯ ДО ФРАЗОВОЙ РЕЧИ</span>
-                        </div>
-                        <div class="swiper_text_2">
-                            <span>Как понять, что пора обращаться к специалисту?</span>
-                        </div>
-                        <div class="swiper_more">
-                            <a href="#">Узнать</a>
-                        </div>
+    <section class="internal-page">
+        <h1 class="header-for-page">STOP ЗАИКАНИЕ</h1>
+        <div class="internal-banner-4"></div>
+        <div>
+            <span class="internal-page-text">
+                У родителей может быть множество поводов для беспокойства,
+                среди которых отсутствие гулирования или лепета, отсутствие
+                у малыша понимания обращённой речи, задержка физического
+                развития. Это могут быть эпизоды серьёзных собраний.
+            </span>
+            <div class="internal-page-content-block">
+                <div class="part-of-border"></div>
+                <h2 class="internal-page-content-block-header">Как понять, что пора обращаться к специалисту?</h2>
+                <div class="internal-page-flex-block">
+                    <div class="internal-page-flex-item">
+                        ✔️ Ребенок к обновлениям месяцам почти никогда не кричит.
                     </div>
-                </div>
-
-                <div class="swiper-slide">
-                    <div class="swiper_background"></div>
-                    <img src="img/photo.jpg" alt="photo">
-                    <div class="swiper__text-block">
-                        <div class="swiper_text_1">
-                            <span>КУРС "Заикание STOP"</span>
-                        </div>
-                        <div class="swiper_text_2">
-                            <span>
-                                Ваш ребёнок заикается?<br>
-                                Ему сложно выразить свои мысли и общаться со сверстниками?
-                            </span>
-                        </div>
-                        <div class="swiper_more">
-                            <a href="#">Подробнее</a>
-                        </div>
+                    <div class="internal-page-flex-item">
+                        ✔️ Полугодовалый ребенок не гулит, не улыбается,
+                        когда с ним говорит, не прислушивается к звукам.
                     </div>
-                </div>
-
-                <div class="swiper-slide">
-                    <div class="swiper_background"></div>
-                    <img src="img/photo_2022-10-20_15-.jpg" alt="photo">
-                    <div class="swiper__text-block">
-                        <div class="swiper_text_1">
-                            <span>LAKELAND ROUTES</span>
-                        </div>
-                        <div class="swiper_text_2">
-                            <span>Explore Helsinki and the Finnish lake on an unforgettable road trip alone or with your loved ones.</span>
-                        </div>
-                        <div class="swiper_more">
-                            <a href="#">Read more</a>
-                        </div>
+                    <div class="internal-page-flex-item">
+                        ✔️ Малыш в 7-8 месяцев не реагирует на голоса родителей.
+                    </div>
+                    <div class="internal-page-flex-item">
+                        ✔️ К 10 месяцам все еще не чемпионат лепет.
+                    </div>
+                    <div class="internal-page-flex-item">
+                        ✔️ В год у ребенка не обнаружен показательный жест.
+                        Ребёнок использует руку мамы или другого взрослого,
+                        чтобы показать, что он хочет.
+                    </div>
+                    <div class="internal-page-flex-item">
+                        ✔️ К выполнению года ребенок не понимает простых вопросов и запросов
+                        (например, «дай машинку папе»), не может вычислить ни слова или
+                        использовать максимум 10-20 слов, коверкая их до неузнаваемости.
+                    </div>
+                    <div class="internal-page-flex-item">
+                        ✔️ Ребенок в три года не разговаривает с окружающими,
+                        не может правильно построить даже простое предложение,
+                        в его почти словарном запасе около 50 слов.
+                    </div>
+                    <div class="internal-page-flex-item">
+                        ✔️ Есть серьезные проблемы с осмыслением звука — речь бесвязная,
+                        ее очень трудно понять даже на чертеже. 
+                        Даже 2-3 признаков нарушения речи
                     </div>
                 </div>
             </div>
-            <!-- If we need pagination -->
-            <div class="swiper-pagination"></div>
-
-            <!-- If we need navigation buttons -->
-            <div class="swiper-button-prev"></div>
-            <div class="swiper-button-next"></div>
-
-            <!-- If we need scrollbar -->
-            <div class="swiper-scrollbar"></div>
         </div>
     </section>
 
