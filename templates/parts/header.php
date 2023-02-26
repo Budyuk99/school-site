@@ -10,7 +10,7 @@
                                 <div class="square"></div>
                             </div>
                             <menu class="menu-subsections">
-                                <menuitem><a href="#">Консультация</a></menuitem>
+                                <menuitem><a href="#">Консультация логопеда</a></menuitem>
                                 <menuitem><a href="/zapusk-rechi.php">Запуск речи</a></menuitem>
                                 <menuitem><a href="/correkciya-zvykoproiznosheniya.php">Коррекция звукопроизношения</a></menuitem>
                                 <menuitem><a href="/logopedicheskij-massazh.php">Логопедический массаж</a></menuitem>
@@ -94,7 +94,7 @@
         <div class="mobile_menu_flex_container">
             <div class="mobile_menu_flex_item"><a href="/"><img src="/img/logo.svg" alt=""></a></div>
             <div class="mobile_menu_flex_item">
-                <div class="lines-for-mobile-menu-flex-container">
+                <div class="lines-for-mobile-menu-flex-container open">
                     <span class="lines-for-mobile-menu-flex-item"></span>
                     <span class="lines-for-mobile-menu-flex-item"></span>
                     <span class="lines-for-mobile-menu-flex-item"></span>
@@ -112,8 +112,9 @@
             <div class="mobile_menu_flex_container_opened_second">
                 <ul>
                     <li>
-                        <span>Нарушения речи</span>
+                        <span>Логопедические услуги</span>
                         <ul>
+                            <li><a href="#">Консультация логопеда</a></li>
                             <li><a href="/zapusk-rechi.php">Запуск речи</a></li>
                             <li><a href="/correkciya-zvykoproiznosheniya.php">Коррекция звукопроизношения</a></li>
                             <li><a href="/logopedicheskij-massazh.php">Логопедический массаж</a></li>
@@ -121,29 +122,42 @@
                         </ul>
                     </li>
                     <li>
-                    <span>Задержка и нарушение развития</span>
+                        <span>Нейрокоррекция</span>
                         <ul>
-                            <li><a></a></li>
+                            <li><a href="/consultaciya-nejropsihologa.php">Консультация нейропсихолога</a></li>
+                            <li><a href="/neiropsihologicheskaya-diagnostica.php">Нейропсихологическая диагностика</a></li>
+                            <li><a href="/individyalnie-zanyatiya-s-nejropsihologom.php">Индивидуальные занятия с нейропсихологом</a></li>
+                            <li><a href="/neirofitnes.php">Интенсив нейрофитнес</a></li>
+                            <li><a href="/diagnostica-moho.php">Диагностика внимания и гиперактивности МОХО</a></li>
+                            <li><a href="#">Сенсорная интеграция</a></li>
                         </ul>
                     </li>
                     <li>
-                    <span>Проблемы обучения и поведения</span>
+                        <span>Адаптивная физическая культура</span>
                         <ul>
-                            <li><a></a></li>
+                            <li><a href="/afk.php">Адаптивная физическая культура (АФК)</a></li>
+                            <li><a href="/nejrobika.php">Курс Нейробика</a></li>
                         </ul>
                     </li>
                     <li>
-                    <span>Наша команда</span>
+                        <span>Аппаратные методики</span>
                         <ul>
-                            <li><a></a></li>
+                            <li><a href="/vcht.php">Высокочастотная терапия звуком</a></li>
+                            <li><a href="/micropolyarizaciya.php">Микрополяризация</a></li>
+                            <li><a href="/oksigenoterapiya.php">Оксигенотерапия</a></li>
+                            <li><a href="/forbrain.php">FORBRAIN</a></li>
+                            <li><a href="/soundsory.php">SOUNDSORY</a></li>
                         </ul>
                     </li>
                     <li>
-                    <span>О нас</span>
+                        <span>Услуги психолога</span>
                         <ul>
-                            <li><a></a></li>
+                            <li><a href="/consultaciya-psihologa.php">Консультация психолога</a></li>
+                            <li><a href="#">Тестирование индивидуальных особенностей по отпечаткам пальцев InfoLife</a></li>
                         </ul>
                     </li>
+                    <li><a href="#">Отзывы</a></li>
+                    <li><a href="#">Команда</a></li>
                 </ul>
             </div>
         </div>
