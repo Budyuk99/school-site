@@ -49,3 +49,25 @@ const swiper = new Swiper('.swiper', {
     // },
   });
 
+  document.querySelector('.lines-for-mobile-menu-flex-container').onclick = function() {
+    document.querySelector('#mobile-menu').style.display = 'flex';
+    document.querySelector('#mobile-menu').style.overflow = 'auto';
+    document.querySelector('body').style.overflow = 'hidden';
+  }
+
+  document.querySelector('.close').onclick = function() {
+    document.querySelector('#mobile-menu').style.display = 'none';
+    document.querySelector('body').style.overflow = 'visible';
+  }
+
+  let prevScrollpos = window.pageYOffset;
+  window.onscroll = function () {
+      let currentScrollPos = window.pageYOffset;
+      if (prevScrollpos > currentScrollPos) {
+          document.querySelector(".header.header_height").style.top = "0";
+      } else {
+          document.querySelector(".header.header_height").style.top = "-70px";
+      }
+      prevScrollpos = currentScrollPos;
+  }
+

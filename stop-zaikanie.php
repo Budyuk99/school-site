@@ -7,190 +7,138 @@
 
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css">
+    <link type="image/svg+xml" href="/favicon.svg" rel="shortcut icon">
 
-    <title>STOP заикание</title>
+    <title>STOP Заикание</title>
 </head>
 <body>
-    <header class="header header_height">
-        <div class="header__menu header__menu_height-inherit">
-            <menu class="header__menu header__menu_flex-container" type="context">
-                <menuitem class="header__menuitem header__menuitem_flex-item"><a href="/"><img src="img/logo.png" alt=""></a></menuitem>
-                <menuitem class="header__menuitem header__menuitem_flex-item">
-                    <span class="subsections">
-                        <button class="subsection-btn">НАРУШЕНИЯ РЕЧИ</button>
-                        <div class="menu">
-                            <div class="block-for-square">
-                                <div class="square"></div>
-                            </div>
-                            <menu class="menu-subsections">
-                                <menuitem><a href="/zapusk-rechi.php">Запуск речи</a></menuitem>
-                                <menuitem><a href="/correkciya-zvykoproiznosheniya.php">Коррекция звукопроизношения</a></menuitem>
-                                <menuitem><a href="/logopedicheskij-massazh.php">Логопедический массаж</a></menuitem>
-                                <menuitem><a href="/stop-zaikanie.php">Stop заикание</a></menuitem>
-                            </menu>
-                        </div>
-                    </span>
-                </menuitem>
-                <menuitem class="header__menuitem header__menuitem_flex-item">
-                    <span class="subsections">
-                        <button class="subsection-btn">ЗАДЕРЖКА И НАРУШЕНИЕ РАЗВИТИЯ</button>
-                        <div class="menu">
-                            <div class="block-for-square">
-                                <div class="square"></div>
-                            </div>
-                            <menu class="menu-subsections">
-                                <menuitem><a href="#">Запуск речи</a></menuitem>
-                                <menuitem><a href="#">Коррекция звукопроизношения</a></menuitem>
-                                <menuitem><a href="#">Логопедический массаж</a></menuitem>
-                                <menuitem><a href="#">Stop заикание</a></menuitem>
-                            </menu>
-                        </div>
-                    </span>
-                </menuitem>
-                <menuitem class="header__menuitem header__menuitem_flex-item">
-                    <span class="subsections">
-                        <button class="subsection-btn">ПРОБЛЕМЫ ОБУЧЕНИЯ И ПОВЕДЕНИЯ</button>
-                        <div class="menu">
-                            <div class="block-for-square">
-                                <div class="square"></div>
-                            </div>
-                            <menu class="menu-subsections">
-                                <menuitem><a href="#">Запуск речи</a></menuitem>
-                                <menuitem><a href="#">Коррекция звукопроизношения</a></menuitem>
-                                <menuitem><a href="#">Логопедический массаж</a></menuitem>
-                                <menuitem><a href="#">Stop заикание</a></menuitem>
-                            </menu>
-                        </div>
-                    </span>
-                </menuitem>
-                <menuitem class="header__menuitem header__menuitem_flex-item">
-                    <span class="subsections">
-                        <button class="subsection-btn">НАША КОМАНДА</button>
-                        <div class="menu">
-                            <div class="block-for-square">
-                                <div class="square"></div>
-                            </div>
-                            <menu class="menu-subsections">
-                                <menuitem><a href="#">Запуск речи</a></menuitem>
-                                <menuitem><a href="#">Коррекция звукопроизношения</a></menuitem>
-                                <menuitem><a href="#">Логопедический массаж</a></menuitem>
-                                <menuitem><a href="#">Stop заикание</a></menuitem>
-                            </menu>
-                        </div>
-                    </span>
-                </menuitem>
-                <menuitem class="header__menuitem header__menuitem_flex-item">
-                    <span class="subsections">
-                        <button class="subsection-btn">О НАС</button>
-                        <div class="menu">
-                            <div class="block-for-square">
-                                <div class="square"></div>
-                            </div>
-                            <menu class="menu-subsections">
-                                <menuitem><a href="#">Часто задаваемые вопросы</a></menuitem>
-                                <menuitem><a href="#">Отзывы</a></menuitem>
-                                <menuitem><a href="#">Как нас найти?</a></menuitem>
-                                <menuitem><a href="#">Контакты</a></menuitem>
-                            </menu>
-                        </div>
-                    </span>
-                </menuitem>
-            </menu>
-        </div>
-    </header>
+    <?php require_once 'templates/parts/header.php'; ?>
 
     <section class="internal-page">
-        <h1 class="header-for-page">STOP ЗАИКАНИЕ</h1>
+        <h1 class="header-for-page">КУРС "ЗАИКАНИЕ STOP"</h1>
         <div class="internal-banner-4"></div>
         <div>
             <span class="internal-page-text">
-                У родителей может быть множество поводов для беспокойства,
-                среди которых отсутствие гулирования или лепета, отсутствие
-                у малыша понимания обращённой речи, задержка физического
-                развития. Это могут быть эпизоды серьёзных собраний.
+                Ваш ребёнок заикается?
+                Ему сложно выразить свои мысли и общаться со сверстниками?
+                У вас есть уникальная возможность откорректировать эти проблемы.
+                И попасть нам на интенсив ПО КОРРЕКЦИИ ЗАИКАНИЯ!
+                Курс  позволит за 10 календарных дней сформировать НОВЫЙ НАВЫК плавной и свободной речи без ступоров и запинок в кратчайшие сроки! 
             </span>
             <div class="internal-page-content-block">
                 <div class="part-of-border"></div>
-                <h2 class="internal-page-content-block-header">Как понять, что пора обращаться к специалисту?</h2>
+                <h2 class="internal-page-content-block-header">Подробнее</h2>
+                <span class="internal-page-text-description">
+                    Работаем по уникальной методике. 
+                    Мы вместе проработаем дыхание, голосоподачу, развитие
+                    межполушарных связей, темп и ритм, грамматические и
+                    ритмические ударения, умение использовать новый навык плавной речи.
+                </span>
+
+
+                <div class="part-of-border"></div>
+                <h2 class="internal-page-content-block-header">В курс входит</h2>
                 <div class="internal-page-flex-block">
-                    <div class="internal-page-flex-item">
-                        ✔️ Ребенок к обновлениям месяцам почти никогда не кричит.
+                    <div class="internal-page-flex-item-more internal-page-flex-item-more-stop-zaik">
+                        <span class="stop-zaik-text">
+                            Подготовительные упражнения.
+                        </span>
                     </div>
-                    <div class="internal-page-flex-item">
-                        ✔️ Полугодовалый ребенок не гулит, не улыбается,
-                        когда с ним говорит, не прислушивается к звукам.
+                    <div class="internal-page-flex-item-more internal-page-flex-item-more-stop-zaik">
+                        <span class="stop-zaik-text">
+                            Дыхательные упражнения.
+                        </span>
                     </div>
-                    <div class="internal-page-flex-item">
-                        ✔️ Малыш в 7-8 месяцев не реагирует на голоса родителей.
+                    <div class="internal-page-flex-item-more internal-page-flex-item-more-stop-zaik">
+                        <span class="stop-zaik-text">
+                            Напряжение/расслабление.
+                        </span>
                     </div>
-                    <div class="internal-page-flex-item">
-                        ✔️ К 10 месяцам все еще не чемпионат лепет.
+                    <div class="internal-page-flex-item-more internal-page-flex-item-more-stop-zaik">
+                        <span class="stop-zaik-text">
+                            Медитации.
+                        </span>
                     </div>
-                    <div class="internal-page-flex-item">
-                        ✔️ В год у ребенка не обнаружен показательный жест.
-                        Ребёнок использует руку мамы или другого взрослого,
-                        чтобы показать, что он хочет.
+                    <div class="internal-page-flex-item-more internal-page-flex-item-more-stop-zaik">
+                        <span class="stop-zaik-text">
+                            Артикуляционная, мимическая пальчиковая гимнастика.
+                        </span>
                     </div>
-                    <div class="internal-page-flex-item">
-                        ✔️ К выполнению года ребенок не понимает простых вопросов и запросов
-                        (например, «дай машинку папе»), не может вычислить ни слова или
-                        использовать максимум 10-20 слов, коверкая их до неузнаваемости.
+                    <div class="internal-page-flex-item-more internal-page-flex-item-more-stop-zaik">
+                        <span class="stop-zaik-text">
+                            Речевое дыхание.
+                        </span>
                     </div>
-                    <div class="internal-page-flex-item">
-                        ✔️ Ребенок в три года не разговаривает с окружающими,
-                        не может правильно построить даже простое предложение,
-                        в его почти словарном запасе около 50 слов.
+                    <div class="internal-page-flex-item-more internal-page-flex-item-more-stop-zaik"> 
+                        <span class="stop-zaik-text">
+                            Работа с гласными и согласными  звуками.
+                        </span>
                     </div>
-                    <div class="internal-page-flex-item">
-                        ✔️ Есть серьезные проблемы с осмыслением звука — речь бесвязная,
-                        ее очень трудно понять даже на чертеже. 
-                        Даже 2-3 признаков нарушения речи
+                    <div class="internal-page-flex-item-more internal-page-flex-item-more-stop-zaik">
+                        <span class="stop-zaik-text">
+                            Работа на фразовой речью.
+                        </span>
+                    </div>
+                    <div class="internal-page-flex-item-more internal-page-flex-item-more-stop-zaik">
+                        <span class="stop-zaik-text">
+                            Комплексная логоритмика (все виды).
+                        </span>
+                    </div>
+                    <div class="internal-page-flex-item-more internal-page-flex-item-more-stop-zaik">
+                        <span class="stop-zaik-text">
+                            Упражнения для губ.
+                        </span>
+                    </div>
+                    <div class="internal-page-flex-item-more internal-page-flex-item-more-stop-zaik">
+                        <span class="stop-zaik-text">
+                            Упражнения для языка.
+                        </span>
+                    </div>
+                    <div class="internal-page-flex-item-more internal-page-flex-item-more-stop-zaik">
+                        <span class="stop-zaik-text">
+                            Игры на внимание.
+                        </span>
+                    </div>
+                    <div class="internal-page-flex-item-more internal-page-flex-item-more-stop-zaik">
+                        <span class="stop-zaik-text">
+                            Баламетрикс.
+                        </span>
+                    </div>
+                    <div class="internal-page-flex-item-more internal-page-flex-item-more-stop-zaik">
+                        <span class="stop-zaik-text">
+                            Развитие двух полушарий.
+                        </span>
+                    </div>
+                    <div class="internal-page-flex-item-more internal-page-flex-item-more-stop-zaik">
+                        <span class="stop-zaik-text">
+                            Вовлечение всей семьи , мама все занятия с ребенком (1 день отца).
+                        </span>
+                    </div>
+                    <div class="internal-page-flex-item-more internal-page-flex-item-more-stop-zaik">
+                        <span class="stop-zaik-text">
+                        Домашние задания.
+                        </span>
+                    </div>
+                    <div class="internal-page-flex-item-more internal-page-flex-item-more-stop-zaik" style="display: flex; justify-content: center;">
+                        <span class="stop-zaik-text">
+                            Индивидуальные рекомендации по каждому ребёнку после окончания курса.
+                        </span>
                     </div>
                 </div>
             </div>
+
+            <span class="internal-page-parents-text-header">
+                <p>
+                    Поддержка и сопровождение в течении 3 месяцев после окончания интенсива без дополнительной оплаты!
+                    Подчеркнем, что мы единственные, кто проводит в Республике занятия по этой методике. 
+                    Присутствие  и участие родителя на курсе обязательно.  
+                    Курс проводит Крыловская Галина Валерьевна - логопед-дефектолог, руководитель центра речи "Радуга"
+                </p>
+            </span>
         </div>
     </section>
 
-    <footer class="footer">
-        <div class="footer-up">
-            <div class="footer-part-1">
-                <div class="footer-logo"><img src="/img/logo.png" alt=""></div>
-                <div class="footer__text-block">
-                    Любовь и уважение к детям – это единственное,
-                    что можно назвать традиционным в системе преподавания
-                    «Радуга». Все остальное – из будущего!
-                    Добро пожаловать в «Радуга», где хочется учиться.
-                </div>
-            </div>
-            <div class="footer-part-2">
-                <p class="footer-2__item">Курсы Радуга</p>
-                <ul>
-                    <li><a href="#">Главная</a></li>
-                    <li><a href="#">Статьи</a></li>
-                    <li><a href="#">Фотогалерея</a></li>
-                    <li><a href="#">Контакты</a></li>
-                    <li><a href="#">Наши студии</a></li>
-                    <li><a href="#">Преподаватели</a></li>
-                    <li><a href="#">Цены и скидки</a></li>
-                    <li><a href="#">Отзывы клиентов</a></li>
-                </ul>
-            </div>
-            <div class="footer-part-3">
-                <p class="footer-3__item">Наши контакты</p>
-                <ul>
-                    <li>Беларусь, Брест, ул. Куйбышева, 4</li>
-                    <li>E-mail: <a href="#">raduga@tut.by</a></li>
-                    <li>Тел.: <a href="#">+375 29 1-222-222</a></li>
-                </ul>
-            </div>
-        </div>
-
-        <div class="footer-down">
-            <div class="footer-down-1">© 2023 «Радуга». Все права защищены.</div>
-            <div class="footer-down-2"><a href="#">Политики конфиденциальности</a></div>
-            <div class="footer-down-3">Сделано <a href="https://www.linkedin.com/in/nikita-budyuk-8baa31261">linkedin.com/in/nikita-budyuk-8baa31261</a></div>
-        </div>
-    </footer>
+    <?php require_once 'templates/parts/footer.php'; ?>
     
     <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
     <script src="js/script.js"></script>
