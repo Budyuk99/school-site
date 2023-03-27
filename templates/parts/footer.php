@@ -24,10 +24,17 @@
             </div>
             <div class="footer-part-3">
                 <p class="footer-3__item">Наши контакты</p>
-                <ul>
+                <ul class="our-contacts">
                     <li>Беларусь, Брест, ул. Куйбышева, 4</li>
-                    <li>E-mail: <a href="#">raduga@tut.by</a></li>
-                    <li>Тел.: <a href="#">+375 29 1-222-222</a></li>
+                    <li>E-mail: <a href="mailto:brestraduga@gmail.com">brestraduga@gmail.com</a></li>
+                    <li>Тел.: <a href="tel:+375297046303">+375(29)704-63-03</a></li>
+                    <li>
+                        <div class="socials">
+                            <a href="https://www.instagram.com/raduga_brest/?igshid=Mzc0YWU1OWY%3D" target="_blank"><img src="img/Instagram_icon-icons.com_66804.svg" alt="instagram"></a>
+                            <a href="https://vk.com/logopedkrylouskaya" target="_blank"><img src="img/vk-icon.svg" alt="vk"></a>
+                            <a href="https://www.facebook.com/RadugaBrestKrylouskaya?mibextid=ZbWKwL" target="_blank"><img src="img/facebook-icon.svg" alt="facebook"></a>
+                        </div>
+                    </li>
                 </ul>
             </div>
         </div>

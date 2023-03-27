@@ -60,6 +60,21 @@ const swiper = new Swiper('.swiper', {
     document.querySelector('body').style.overflow = 'visible';
   }
 
+  document.querySelector('.mobile-contacts-open-close').onclick = function() {
+
+    if (document.querySelector('#mobile-contacts').classList.contains('opened')) {
+      document.querySelector('#mobile-contacts').classList.remove('opened');
+    } else {
+      document.querySelector('#mobile-contacts').classList.add('opened');
+    }
+
+    document.querySelector('#mobile-contacts').style.overflow = 'auto';
+  }
+
+  // document.querySelector('.mobile-contacts-open-close').onclick = function() {
+  //   document.querySelector('#mobile-contacts').style.display = 'none';
+  // }
+
   let prevScrollpos = window.pageYOffset;
   window.onscroll = function () {
       let currentScrollPos = window.pageYOffset;

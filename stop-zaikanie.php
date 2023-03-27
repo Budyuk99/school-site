@@ -15,7 +15,7 @@
     <?php require_once 'templates/parts/header.php'; ?>
 
     <section class="internal-page">
-        <h1 class="header-for-page">КУРС "ЗАИКАНИЕ STOP"</h1>
+        <h1 id="stop-zaikanie" class="header-for-page">КУРС "ЗАИКАНИЕ STOP"</h1>
         <div class="internal-banner-4"></div>
         <div>
             <span class="internal-page-text">

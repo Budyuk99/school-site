@@ -10,7 +10,7 @@
                                 <div class="square"></div>
                             </div>
                             <menu class="menu-subsections">
-                                <menuitem><a href="#">Консультация логопеда</a></menuitem>
+                                <menuitem><a href="/consultaciya-logopeda.php">Консультация логопеда</a></menuitem>
                                 <menuitem><a href="/zapusk-rechi.php">Запуск речи</a></menuitem>
                                 <menuitem><a href="/correkciya-zvykoproiznosheniya.php">Коррекция звукопроизношения</a></menuitem>
                                 <menuitem><a href="/logopedicheskij-massazh.php">Логопедический массаж</a></menuitem>
@@ -77,7 +77,7 @@
                             </div>
                             <menu class="menu-subsections">
                                 <menuitem><a href="/consultaciya-psihologa.php">Консультация психолога</a></menuitem>
-                                <menuitem><a href="#">Тестирование индивидуальных особенностей по отпечаткам пальцев InfoLife</a></menuitem>
+                                <menuitem><a href="/infolife.php">Тестирование индивидуальных особенностей по отпечаткам пальцев InfoLife</a></menuitem>
                             </menu>
                         </div>
                     </span>
@@ -93,6 +93,7 @@
 
         <div class="mobile_menu_flex_container">
             <div class="mobile_menu_flex_item"><a href="/"><img src="/img/logo.svg" alt=""></a></div>
+            <div class="mobile-contacts-open-close">Контакты</div>
             <div class="mobile_menu_flex_item">
                 <div class="lines-for-mobile-menu-flex-container open">
                     <span class="lines-for-mobile-menu-flex-item"></span>
@@ -102,10 +103,21 @@
             </div>
         </div>
 
+        <div id="mobile-contacts">
+            <div class="mobile-contacts-item">Беларусь, Брест, ул. Куйбышева, 4</div>
+            <div class="mobile-contacts-item">E-mail:&nbsp;  <a href="mailto:brestraduga@gmail.com">brestraduga@gmail.com</a></div>
+            <div class="mobile-contacts-item">Тел.:&nbsp;  <a href="tel:+375297046303">+375(29) 704-63-03</a></div>
+            <div class="socials-header">
+                <a href="https://www.instagram.com/raduga_brest/?igshid=Mzc0YWU1OWY%3D" target="_blank"><img src="img/Instagram_icon-icons.com_66804.svg" alt="instagram"></a>
+                <a href="https://vk.com/logopedkrylouskaya" target="_blank"><img src="img/vk-icon.svg" alt="vk"></a>
+                <a href="https://www.facebook.com/RadugaBrestKrylouskaya?mibextid=ZbWKwL" target="_blank"><img src="img/facebook-icon.svg" alt="facebook"></a>
+            </div>
+        </div>
+
         <div id="mobile-menu">
             <div class="mobile_menu_flex_container_opened">
-                <div class="mobile_menu_flex_item"><a href="/" style="align-items: center;"><img class="opened-logo" src="/img/logo.svg" alt=""></a></div>
-                <div class="mobile_menu_flex_item">
+                <div class="mobile_menu_flex_item mobile_menu_flex_item-logo"><a href="/" style="align-items: center;"><img class="opened-logo" src="/img/logo.svg" alt=""></a></div>
+                <div class="mobile_menu_flex_item mobile_menu_flex_item-close">
                     <div class="lines-for-mobile-menu-flex-container close"></div>
                 </div>
             </div>
@@ -114,7 +126,7 @@
                     <li>
                         <span>Логопедические услуги</span>
                         <ul>
-                            <li><a href="#">Консультация логопеда</a></li>
+                            <li><a href="/consultaciya-logopeda.php">Консультация логопеда</a></li>
                             <li><a href="/zapusk-rechi.php">Запуск речи</a></li>
                             <li><a href="/correkciya-zvykoproiznosheniya.php">Коррекция звукопроизношения</a></li>
                             <li><a href="/logopedicheskij-massazh.php">Логопедический массаж</a></li>
@@ -153,7 +165,7 @@
                         <span>Услуги психолога</span>
                         <ul>
                             <li><a href="/consultaciya-psihologa.php">Консультация психолога</a></li>
-                            <li><a href="#">Тестирование индивидуальных особенностей по отпечаткам пальцев InfoLife</a></li>
+                            <li><a href="/infolife.php">Тестирование индивидуальных особенностей по отпечаткам пальцев InfoLife</a></li>
                         </ul>
                     </li>
                     <li><a href="#">Отзывы</a></li>

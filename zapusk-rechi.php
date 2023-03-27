@@ -15,7 +15,7 @@
     <?php require_once 'templates/parts/header.php'; ?>
 
     <section class="internal-page">
-        <h1 class="header-for-page">ЗАПУСК РЕЧИ У НЕГОВОРЯЩИХ ДЕТЕЙ ОТ НУЛЯ ДО ФРАЗОВОЙ РЕЧИ</h1>
+        <h1 id="zapusk-rechi" class="header-for-page">ЗАПУСК РЕЧИ У НЕГОВОРЯЩИХ ДЕТЕЙ ОТ НУЛЯ ДО ФРАЗОВОЙ РЕЧИ</h1>
         <div class="internal-banner-1"></div>
         <div>
             <span class="internal-page-text">

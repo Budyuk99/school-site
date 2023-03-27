@@ -31,7 +31,7 @@
                             <span class="swiper_text_2_span">Как понять, что пора обращаться к специалисту?</span>
                         </div>
                         <div class="swiper_more">
-                            <a href="#">Узнать</a>
+                            <a href="zapusk-rechi.php#zapusk-rechi">Узнать</a>
                         </div>
                     </div>
                 </div>
@@ -50,7 +50,7 @@
                             </span>
                         </div>
                         <div class="swiper_more">
-                            <a href="#">Подробнее</a>
+                            <a href="stop-zaikanie.php#stop-zaikanie">Подробнее</a>
                         </div>
                     </div>
                 </div>
