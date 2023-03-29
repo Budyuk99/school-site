@@ -16,7 +16,11 @@
 
     <section class="internal-page">
         <h1 id="zapusk-rechi" class="header-for-page">ЗАПУСК РЕЧИ У НЕГОВОРЯЩИХ ДЕТЕЙ ОТ НУЛЯ ДО ФРАЗОВОЙ РЕЧИ</h1>
-        <div class="internal-banner-1"></div>
+    </section>
+
+        <div class="test"></div>
+
+    <section class="internal-page internal-page-part-2">
         <div>
             <span class="internal-page-text">
                 У родителей может быть множество поводов для беспокойства,

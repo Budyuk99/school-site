@@ -1,7 +1,11 @@
 body, html {
     margin: 0;
     padding: 0;
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif !important;
+}
+
+* {
+    font-family: 'PT Sans', sans-serif !important;
 }
 
 /* width */
@@ -73,9 +77,9 @@ body, html {
     color: #144d03;
     border: 0px solid #ffffff;
     background-color: #ff9d00;
-    font-size: 19px;
+    font-size: 16px;
     font-weight: 600;
-    padding: 30px 60px;
+    padding: 20px 50px;
     border-radius: 20px;
     text-decoration: none;
 }
@@ -85,8 +89,8 @@ body, html {
     display: flex;
     justify-content: center;
     width: 100%;
-    font-weight: 700;
-    font-size: 60px;
+    font-weight: 500;
+    font-size: 45px;
     text-align: center;
     z-index: 1;
 }
@@ -100,14 +104,14 @@ body, html {
     display: flex;
     justify-content: center;
     width: 100%;
-    font-weight: 700;
+    font-weight: 500;
     font-size: 20px;
     text-align: center;
     z-index: 1;
 }
 
 .swiper__text-block {
-    top: 20%;
+    top: 40%;
     color: white;
     position: absolute;
     display: flex;
@@ -243,7 +247,7 @@ body, html {
 .menu-subsections menuitem a {
     color: black;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 15px;
     line-height: 20px;
     display: inline-block;
 }
@@ -256,7 +260,7 @@ body, html {
 .subsection-btn {
     background-color: transparent;
     border: none;
-    font-size: 17px;
+    font-size: 15px;
     font-weight: 500;
     color: white;
 }
@@ -284,7 +288,7 @@ body, html {
 
 .header-for-page {
     color: #494949;
-    font-size: 37px;
+    font-size: 32px;
     font-weight: 400;
     margin: 0 0 30px 0;
     text-align: center;
@@ -366,7 +370,25 @@ body, html {
     flex-basis: 60%;
 }
 
-.internal-banner-1 {
+.internal-banner-consultaciya-logopeda {
+    background: url('/img/consult-logopeda.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    width: 90%;
+    margin: auto;
+}
+
+.test {
+    background: url('/img/test.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    width: 90%;
+    margin: auto;
+}
+
+/* .internal-banner-1 {
     background: url('/img/photo_2022-10-31_21-28-37.jpg');
     background-size: cover;
     background-position: center;
@@ -404,32 +426,32 @@ body, html {
     width: 1000px;
     margin: auto;
     box-shadow: 1px 1px 6px #494949, -1px 1px 6px #494949;
-}
+} */
 
 .internal-page-flex-block {
     display: flex;
     flex-wrap: wrap;
     padding: 0px 30px;
+    border-top: solid 1px #EBEBF0;
+    flex-direction: row;
 }
 
 .internal-page-flex-item {
-    flex-basis: 50%;
+    display: flex;
     color: #828A99;
     font-size: 18px;
     padding: 30px;
-    flex-grow: 1;
-    border-top: solid 1px #EBEBF0;
     line-height: 32px;
     font-style: italic;
-    display: flex;
-    gap: 10px;
     align-items: center;
+    gap: 20px;
     box-sizing: border-box;
+    flex-basis: 33.3%;
 }
 
 .internal-page-content-block-header {
     color: #494949;
-    font-size: 36px;
+    font-size: 33px;
     font-weight: 400;
     margin: 0px 0 30px 0;
     text-align: center;
@@ -456,10 +478,11 @@ body, html {
     border: 1px solid #EBEBF0;
     margin: auto;
     margin-top: 70px;
+    margin-bottom: 5px;
 }
 
 .footer-logo img {
-    height: 165px;
+    height: 100px;
 }
 
 .footer__text-block {
@@ -538,6 +561,7 @@ body, html {
     display: flex;
     border-top: solid 1px #EBEBF0;
     padding: 20px 11%;
+    justify-content: space-between;
 }
 
 .footer-down-1 {
@@ -623,17 +647,15 @@ body, html {
 
 .internal-page-flex-item-more {
     display: flex;
-    flex-basis: 30%;
     color: #828A99;
     font-size: 18px;
     padding: 30px;
-    flex-grow: 1;
-    border-top: solid 1px #EBEBF0;
     line-height: 32px;
     font-style: italic;
     align-items: center;
     gap: 20px;
     box-sizing: border-box;
+    flex-basis: 33.3%;
 }
 
 .mobile_menu_flex_container {
@@ -912,13 +934,12 @@ body, html {
 
 .internal-page-flex-item-afk-2 {
     flex-grow: unset;
-    flex-basis: 29%;
 }
 
 .zapusk-rechi-text {
-    border-left: 3px solid rgb(255,76,76);
     padding-left: 20px;
-    height: 100px;
+    border-bottom: solid 1px #EBEBF0;
+    height: 100%;
 }
 
 .corr-zvyk-text {
@@ -954,9 +975,9 @@ body, html {
 }
 
 .cons-logopeda-text {
-    border-left: 3px solid #43a047;
     padding-left: 20px;
-    height: 100px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .internal-page-flex-item-more-stop-zaik {
@@ -1116,6 +1137,10 @@ body, html {
     color: white;
     font-size: 18px;
     cursor: pointer;
+}
+
+.internal-page-part-2 {
+    margin-top: 30px;
 }
 
 @media (max-width: 1600px) {

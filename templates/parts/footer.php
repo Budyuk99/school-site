@@ -3,10 +3,7 @@
             <div class="footer-part-1">
                 <div class="footer-logo"><img src="/img/g10.svg" alt=""></div>
                 <div class="footer__text-block">
-                    Любовь и уважение к детям – это единственное,
-                    что можно назвать традиционным в системе преподавания
-                    «Радуга». Все остальное – из будущего!
-                    Добро пожаловать в «Радуга», где хочется учиться.
+                    "Радуга" - центр речи Галины Крыловской.
                 </div>
             </div>
             <div class="footer-part-2">
@@ -41,7 +38,6 @@
 
         <div class="footer-down">
             <div class="footer-down-1">© 2023 «Радуга». Все права защищены.</div>
-            <div class="footer-down-2"><a href="#">Политики конфиденциальности</a></div>
             <div class="footer-down-3">Сделано <a href="https://www.linkedin.com/in/nikita-budyuk-8baa31261" target="_blank">linkedin.com/in/nikita-budyuk-8baa31261</a></div>
         </div>
     </footer>

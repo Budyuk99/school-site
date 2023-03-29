@@ -21,7 +21,11 @@
 
     <section class="internal-page">
         <h1 id="stop-zaikanie" class="header-for-page">КОНСУЛЬТАЦИЯ ЛОГОПЕДА</h1>
-        <div class="internal-banner-4"></div>
+    </section>
+
+        <div class="internal-banner-consultaciya-logopeda"></div>
+
+    <section class="internal-page internal-page-part-2">    
         <div>
             <div class="internal-page-content-block">
                 <div class="part-of-border"></div>
@@ -69,7 +73,7 @@
                         <div>
                             <img src="/img/icons8.svg" alt="">
                         </div> 
-                        <span>
+                        <span class="cons-log-text">
                             Специально подобранного рациона питания.
                         </span>
                     </div>
@@ -77,7 +81,7 @@
                         <div>
                             <img src="/img/icons8.svg" alt="">
                         </div> 
-                        <span>
+                        <span class="cons-log-text">
                             Занятий с логопедом (запуск речи, постановка звуков).
                         </span>
                     </div>
@@ -85,7 +89,7 @@
                         <div>
                             <img src="/img/icons8.svg" alt="">
                         </div> 
-                        <span>
+                        <span class="cons-log-text">
                             Занятий с сенсорным педагогом.
                         </span>
                     </div>
@@ -93,7 +97,7 @@
                         <div>
                             <img src="/img/icons8.svg" alt="">
                         </div> 
-                        <span>
+                        <span class="cons-log-text">
                             Аппаратных методики ВЧТ или МП по индивидуальному протоколу (при необходимости).
                         </span>
                     </div>
