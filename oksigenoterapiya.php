@@ -16,6 +16,11 @@
 
     <section class="internal-page">
         <h1 class="header-for-page">ОКСИГЕНОТЕРАПИЯ</h1>
+    </section>
+
+    <div class="internal-banner-consultaciya-logopeda"></div>
+
+    <section class="internal-page internal-page-part-2">
         <div class="internal-banner-2"></div>
         <div>
             <div class="internal-page-content-block">
@@ -66,9 +71,6 @@
                 </div>
 
                 <span class="internal-page-text-additional internal-page-text-additional-warning">
-                    <div class="internal-page-text-additional-warning-img">
-                        <img src="/img/warning.svg" alt="">
-                    </div>
                     <div class="internal-page-text-additional-warning-text">
                         Противопоказаний для применения терапии НЕТ!
                         Но – как и для других физиотерапевтических процедур – подбирается оптимальное воздействие (время, интенсивность,
@@ -80,50 +82,32 @@
                 <h2 class="internal-page-content-block-header">Какие результаты?</h2>
                 <div class="internal-page-flex-block">
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="oksigenoterapiya-text">
                             Улучшаются все психические процессы – память, мышление, речь.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="oksigenoterapiya-text">
                             Улучшается кровообращение, уходят проблемы из ЖКТ.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="oksigenoterapiya-text">
                             Повышается иммунитет, улучшается настроение.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="oksigenoterapiya-text">
                             У беременных женщин уходит анемия, лучше развивается ребенок.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="oksigenoterapiya-text">
                             Стимулируется развитие малышей с родовыми травмами или гипоксией в анамнезе.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="oksigenoterapiya-text">
                             Снижается или вовсе идёт отказ от противовирусных препаратов, ноотропов или иммуномодуляторов.
                         </span>
                     </div>

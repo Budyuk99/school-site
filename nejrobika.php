@@ -16,6 +16,11 @@
 
     <section class="internal-page">
         <h1 class="header-for-page">КУРС НЕЙРОБИКА</h1>
+    </section>
+
+    <div class="internal-banner-consultaciya-logopeda"></div>
+
+    <section class="internal-page internal-page-part-2">
         <div class="internal-banner-2"></div>
         <div>
             <div class="internal-page-content-block">
@@ -43,84 +48,54 @@
                 <h2 class="internal-page-content-block-header">Регулярное выполнение упражнений приносит ребенку пользу</h2>
                 <div class="internal-page-flex-block">
                     <div class="internal-page-flex-item internal-page-flex-item-nejrobika">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejrobika-text">
                             Укрепляет состояние нервной системы.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-nejrobika">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejrobika-text">
                             Синхронизирует работу обоих полушарий мозга.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-nejrobika">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejrobika-text">
                             Обеспечивает более быстрое восприятие и обработку информации,
                             которая поступает из окружающего мира.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-nejrobika">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejrobika-text">
                             Повышает физическую и умственную работоспособность.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-nejrobika">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejrobika-text">
                             Снижает утомляемость, которая возникает в конце учебного дня.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-nejrobika">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejrobika-text">
                             Активирует мыслительную активность тех центров головного мозга,
                             которые отвечают за реализацию когнитивных функций.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-nejrobika">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejrobika-text">
                             Способствует более активной подвижности кистей рук.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-nejrobika">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejrobika-text">
                             Развивает творческие способности ребенка, позволяя открыть скрытые таланты.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-nejrobika">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejrobika-text">
                             Снимает нервное напряжение и усталость мышечной системы.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-nejrobika">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejrobika-text">
                             Повышает работоспособность вестибулярного аппарата, а также
                             позволяет справиться с нагрузками в виде длительных поездок
                             в общественном транспорте, автомобиле (детей с крепким вестибулярным
@@ -128,10 +103,7 @@
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-nejrobika">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejrobika-text">
                             Обеспечивает более быструю адаптацию ребенка к сложным жизненным
                             ситуациями, которые несут в себе стрессовую нагрузку.
                         </span>

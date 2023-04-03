@@ -16,6 +16,11 @@
 
     <section class="internal-page">
         <h1 class="header-for-page">МИКРОПОЛЯРИЗАЦИЯ</h1>
+    </section>
+
+    <div class="internal-banner-consultaciya-logopeda"></div>
+
+    <section class="internal-page internal-page-part-2">
         <div class="internal-banner-2"></div>
         <div>
             <div class="internal-page-content-block">
@@ -33,75 +38,48 @@
                 <h2 class="internal-page-content-block-header">Что корректирует?</h2>
                 <div class="internal-page-flex-block">
                     <div class="internal-page-flex-item internal-page-flex-item-micropol">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="micropol-text">
                             Моторные нарушения — общей и тонкой моторики, в частности, у детей с ДЦП.
                             Применение методики позволяет максимально восстановить навыки сидения, захвата, ходьбы.
                         </span>
                     </div>
-                    <div class="internal-page-flex-item internal-page-flex-item-micropol">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                    <div class="internal-page-flex-item internal-page-flex-item-micropol"> 
+                        <span class="micropol-text">
                             Отставание в интеллектуальном развитии, ЗПР, ЗПРР - вне зависимости от того, чем вызваны нарушения.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-micropol">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="micropol-text">
                             Нарушения речевого развития у детей (моторная и частично сенсорная алалии, любые расстройства речи) — ЗРР.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-micropol">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="micropol-text">
                             Нарушение поведения (синдром гиперактивности, дефицита внимания, импульсивность и т. д.).
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-micropol">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="micropol-text">
                             Черепно-мозговые травмы.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-micropol">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="micropol-text">
                             Последствия инсультов — нарушения речевых, двигательных и интеллектуальных функций.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-micropol">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="micropol-text">
                             Нарушения зрительных функций (амблиопия, нистагм, косоглазие).
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-micropol">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="micropol-text">
                             Нарушения слуховых функций (сенсоневральная тугоухость).
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-micropol">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="micropol-text">
                             В некоторых случаях эписиндром и эпилепсию, значимо снижает количество приступов.
                         </span>
                     </div>

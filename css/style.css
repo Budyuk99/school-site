@@ -374,17 +374,17 @@ body, html {
     background: url('/img/consult-logopeda.jpg');
     background-size: cover;
     background-position: center;
-    height: 600px;
-    width: 90%;
+    height: 560px;
+    width: 74%;
     margin: auto;
 }
 
-.test {
+.internal-banner-zapusk-rechi {
     background: url('/img/test.jpg');
     background-size: cover;
     background-position: center;
-    height: 600px;
-    width: 90%;
+    height: 560px;
+    width: 74%;
     margin: auto;
 }
 
@@ -616,7 +616,7 @@ body, html {
     font-size: 18px;
     padding: 30px;
     flex-grow: 1;
-    border-top: solid 1px #EBEBF0;
+    /* border-top: solid 1px #EBEBF0; */
     line-height: 32px;
     font-style: italic;
 }
@@ -858,15 +858,7 @@ body, html {
     width: 100px;
 }
 
-.internal-page-flex-item-moho {
-    flex-direction: column;
-}
-
 .internal-page-flex-item-cons-nejro {
-    flex-basis: 25%;
-}
-
-.internal-page-flex-item-micropol {
     flex-basis: 25%;
 }
 
@@ -877,13 +869,15 @@ body, html {
 }
 
 .forbrain-text {
-    height: 200px;
+    padding-left: 20px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .soundsory-text {
-    border-left: 3px solid rgb(255,76,76);
     padding-left: 20px;
-    height: 225px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .logo-a {
@@ -897,22 +891,25 @@ body, html {
 }
 
 .consult-psih-text {
-    border-left: 3px solid rgb(255,76,76);
     padding-left: 20px;
-    height: 160px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .internal-page-flex-item-consult-psih {
     flex-basis: 50%;
 }
 
-.internal-page-flex-item-consult-psih-2 {
-    flex-basis: 25%;
+.cons-psih-text {
+    padding-left: 20px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .consult-psih-text-2 {
-    border-left: 3px solid #43a047;
     padding-left: 20px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .internal-page-flex-item-nejrobika {
@@ -921,9 +918,9 @@ body, html {
 }
 
 .afk-new-text {
-    border-left: 3px solid #43a047;
     padding-left: 20px;
-    height: 65px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .internal-page-flex-item-afk-new {
@@ -943,23 +940,22 @@ body, html {
 }
 
 .corr-zvyk-text {
-    border-left: 3px solid #43a047;
     padding-left: 20px;
-    height: 100px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .zanyatiya-flex-item-span {
-    border-left: 3px solid #43a047;
+    display: block;
     padding-left: 20px;
-    height: 100px;
-    display: flex;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .log-massazh-text {
-    border-left: 3px solid #43a047;
     padding-left: 20px;
-    height: 100px;
-    display: flex;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .internal-page-flex-item-log-massazh {
@@ -969,9 +965,11 @@ body, html {
 }
 
 .stop-zaik-text {
-    border-left: 3px solid #43a047;
+    display: block;
     padding-left: 20px;
-    height: 130px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
+    flex: 1;
 }
 
 .cons-logopeda-text {
@@ -989,33 +987,33 @@ body, html {
 }
 
 .cons-nejro-text {
-    border-left: 3px solid rgb(255,76,76);
     padding-left: 20px;
-    height: 100px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .nejro-diag-text {
-    border-left: 3px solid #43a047;
     padding-left: 20px;
-    height: 65px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .nejro-diag-text-2 {
-    border-left: 3px solid rgb(255,76,76);
     padding-left: 20px;
-    height: 35px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .ind-zanyat-text {
-    border-left: 3px solid rgb(255,76,76);
     padding-left: 20px;
-    height: 100px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .nejrofitness-text {
-    border-left: 3px solid rgb(255,76,76);
     padding-left: 20px;
-    height: 130px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .internal-page-flex-item-nejrofitness {
@@ -1023,39 +1021,39 @@ body, html {
 }
 
 .moho-text {
-    border-left: 3px solid rgb(255,76,76);
     padding-left: 20px;
-    height: 65px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .moho-text-2 {
-    border-left: 3px solid #43a047;
     padding-left: 20px;
-    height: 100px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .vcht-text {
-    border-left: 3px solid #43a047;
     padding-left: 20px;
-    height: 100px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .micro-text {
-    border-left: 3px solid #43a047;
     padding-left: 20px;
-    height: 100px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .oksigeno-text {
-    border-left: 3px solid rgb(255,76,76);
     padding-left: 20px;
-    height: 100px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .oksigeno-text-2 {
-    border-left: 3px solid #43a047;
     padding-left: 20px;
-    height: 65px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
 }
 
 .socials {
@@ -1141,6 +1139,56 @@ body, html {
 
 .internal-page-part-2 {
     margin-top: 30px;
+}
+
+.cons-log-text {
+    padding-left: 20px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
+}
+
+.afk-text {
+    padding-left: 20px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
+}
+
+.log-masazh-text {
+    padding-left: 20px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
+    flex: 1;
+}
+
+.micropol-text {
+    padding-left: 20px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
+}
+
+.nejro-text {
+    padding-left: 20px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
+}
+
+.nejrobika-text {
+    padding-left: 20px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
+}
+
+.oksigenoterapiya-text {
+    padding-left: 20px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
+}
+
+.vcht-text-2 {
+    padding-left: 20px;
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
+    flex: 1;
 }
 
 @media (max-width: 1600px) {

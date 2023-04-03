@@ -16,6 +16,11 @@
 
     <section class="internal-page">
         <h1 class="header-for-page">FORBRAIN</h1>
+    </section>
+
+    <div class="internal-banner-consultaciya-logopeda"></div>
+
+    <section class="internal-page internal-page-part-2">
         <div class="internal-banner-2"></div>
         <div>
             <div class="internal-page-content-block">
@@ -49,9 +54,6 @@
                 <h2 class="internal-page-content-block-header">Чему способствует FORBRAIN?</h2>
                 <div class="internal-page-flex-block">
                     <div class="internal-page-flex-item internal-page-flex-item-micropol">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
                         <span class="forbrain-text">
                             <h3 class="forbrain-h3">Улучшение четкости речи</h3>
                             Наушники Forbrain усиливают звуки устной речи. Они улучшают самосознание,
@@ -59,9 +61,6 @@
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-micropol">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
                         <span class="forbrain-text">
                             <h3 class="forbrain-h3">Улучшение внимания</h3>
                             Устройство обеспечивает вокальную обратную связь для активации мозга, что приводит
@@ -69,9 +68,6 @@
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-micropol">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
                         <span class="forbrain-text">
                             <h3 class="forbrain-h3">Укрепление памяти</h3>
                             Forbrain способствует улучшению памяти, облегчая работу проводящих путей мозга,

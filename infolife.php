@@ -21,6 +21,11 @@
 
     <section class="internal-page">
         <h1 id="stop-zaikanie" class="header-for-page">ТЕСТИРОВАНИЕ ИНДИВИДУАЛЬНЫХ ОСОБЕННОСТЕЙ ПО ОТПЕЧАТКАМ ПАЛЬЦЕВ INFOLIFE</h1>
+    </section>
+
+    <div class="internal-banner-consultaciya-logopeda"></div>
+
+    <section class="internal-page internal-page-part-2">
         <div class="internal-banner-4"></div>
         <div>
             <div class="internal-page-content-block">

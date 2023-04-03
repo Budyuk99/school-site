@@ -16,6 +16,11 @@
 
     <section class="internal-page">
         <h1 class="header-for-page">ВЫСОКОЧАСТОТНАЯ ТЕРАПИЯ ЗВУКОМ</h1>
+    </section>
+
+    <div class="internal-banner-consultaciya-logopeda"></div>
+
+    <section class="internal-page internal-page-part-2">
         <div class="internal-banner-2"></div>
         <div>
             <div class="internal-page-content-block">
@@ -37,66 +42,42 @@
                 <h2 class="internal-page-content-block-header">Что корректирует?</h2>
                 <div class="internal-page-flex-block">
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="vcht-text-2">
                             СЕНСОРНАЯ АЛАЛИЯ.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="vcht-text-2">
                             МОТОРНАЯ АЛАЛИЯ.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="vcht-text-2">
                             ЛЮБЫЕ ЗАДЕРЖКИ РЕЧЕВОГО РАЗВИТИЯ (ОНР).
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="vcht-text-2">
                             Аутизм и расстрои‌ства аутичного спектра (аутичныи‌ синдром, частично синдром Каннера и Аспергера).
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="vcht-text-2">
                             ЗПР.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="vcht-text-2">
                             СДВГ.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="vcht-text-2">
                             Нарушение социализации - ребенок не реагирует на других детей, не играет в обычные игры.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="vcht-text-2">
                             Нарушения грубои‌ и тонкои‌ моторики.
                         </span>
                     </div>

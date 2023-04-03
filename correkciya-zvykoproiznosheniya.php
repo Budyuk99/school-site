@@ -16,6 +16,11 @@
 
     <section class="internal-page">
         <h1 class="header-for-page">КОРРЕКЦИЯ ПРОИЗНОШЕНИЯ</h1>
+    </section>
+
+    <div class="internal-banner-consultaciya-logopeda"></div>
+    
+    <section class="internal-page internal-page-part-2">
         <div class="internal-banner-2"></div>
         <div>
             <span class="internal-page-text">

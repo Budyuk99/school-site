@@ -70,33 +70,21 @@
                 <h2 class="internal-page-content-block-header">Во время занятий</h2>
                 <div class="internal-page-flex-block">
                     <div class="internal-page-flex-item internal-page-flex-item-afk-2">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
                         <span class="cons-log-text">
                             Специально подобранного рациона питания.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk-2">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
                         <span class="cons-log-text">
                             Занятий с логопедом (запуск речи, постановка звуков).
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk-2">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
                         <span class="cons-log-text">
                             Занятий с сенсорным педагогом.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk-2">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
                         <span class="cons-log-text">
                             Аппаратных методики ВЧТ или МП по индивидуальному протоколу (при необходимости).
                         </span>

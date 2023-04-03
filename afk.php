@@ -16,6 +16,11 @@
 
     <section class="internal-page">
         <h1 class="header-for-page">АДАПТИВНАЯ ФИЗИЧЕСКАЯ КУЛЬТУРА (АФК)</h1>
+    </section>
+
+        <div class="internal-banner-consultaciya-logopeda"></div>
+
+    <section class="internal-page internal-page-part-2">
         <div class="internal-banner-2"></div>
         <div>
             <div class="internal-page-content-block">
@@ -68,59 +73,38 @@
                 <h2 class="internal-page-content-block-header">Во время занятий</h2>
                 <div class="internal-page-flex-block">
                     <div class="internal-page-flex-item internal-page-flex-item-afk-2">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="afk-text">
                             Развивается вестибулярный аппарат, что в свою очередь позволяет ребёнку
                             быстрее усваивать новые движения и быть более уверенным.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk-2">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="afk-text">
                             Укрепляются все крупные мышцы и суставы ребёнка.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk-2">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="afk-text">
                             Подготовка к выполнению действий с мелкой моторикой.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk-2">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="afk-text">
                             Содействует развитию зрительного и слухового внимания ребёнка.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk-2">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="afk-text">
                             Формируется межполушарное взаимодействие.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk-2">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="afk-text">
                             У ребёнка складывается образ собственного тела.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk-2">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="afk-text">
                             Содействие речевому развитию.
                         </span>
                     </div>

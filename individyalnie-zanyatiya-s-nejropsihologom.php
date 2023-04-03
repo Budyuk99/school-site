@@ -16,6 +16,11 @@
 
     <section class="internal-page">
         <h1 class="header-for-page">ИНДИВИДУАЛЬНЫЕ ЗАНЯТИЯ С НЕЙРОПСИХОЛОГОМ</h1>
+    </section>
+
+    <div class="internal-banner-consultaciya-logopeda"></div>
+
+    <section class="internal-page internal-page-part-2">
         <div class="internal-banner-2"></div>
         <div>
             <div class="internal-page-content-block">
@@ -58,11 +63,11 @@
                             положительный результат.
                         </span>
                     </div>
-                    <span class="internal-page-parents-text">
+                </div>
+                <span class="internal-page-parents-text">
                         Продолжительность нейропсихологической коррекции от 3 до 6 месяцев с периодичностью встреч
                         2 раза в неделю.
-                    </span>
-                </div>
+                </span>
             </div>
         </div>
     </section>

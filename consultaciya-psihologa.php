@@ -16,6 +16,11 @@
 
     <section class="internal-page">
         <h1 class="header-for-page">КОНСУЛЬТАЦИЯ ПСИХОЛОГА</h1>
+    </section>
+
+    <div class="internal-banner-consultaciya-logopeda"></div>
+
+    <section class="internal-page internal-page-part-2">
         <div class="internal-banner-2"></div>
         <div>
             <div class="internal-page-content-block">
@@ -59,28 +64,19 @@
                 <h2 class="internal-page-content-block-header">Работа с родителями в сфере детско-родительских отношений направлена на:</h2>
                 <div class="internal-page-flex-block">
                     <div class="internal-page-flex-item internal-page-flex-item-consult-psih-2">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="cons-psih-text">
                             Повышение социально-психологической компетентности родителей,
                             обучение их навыкам общения и разрешения конфликтных ситуаций.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-consult-psih-2">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="cons-psih-text">
                             Психологическая помощь взрослым членам семьи, которая
                             включает как диагностику внутрисемейной ситуации, так и работу по её изменению.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-consult-psih-2">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="cons-psih-text">
                             Психотерапевтическая работа непосредственно с ребёнком.
                         </span>
                     </div>

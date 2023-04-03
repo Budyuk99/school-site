@@ -16,6 +16,11 @@
 
     <section class="internal-page">
         <h1 class="header-for-page">ЛОГОПЕДИЧЕСКИЙ МАССАЖ</h1>
+    </section>
+
+    <div class="internal-banner-consultaciya-logopeda"></div>
+
+    <section class="internal-page internal-page-part-2">
         <div class="internal-banner-3"></div>
         <div>
             <div class="internal-page-content-block">
@@ -68,82 +73,52 @@
                 </h2>
                 <div class="internal-page-flex-block">
                     <div class="internal-page-flex-item internal-page-flex-item-log-massazh">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="log-masazh-text">
                             Помощь в правильной постановке звуков.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-log-massazh">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="log-masazh-text">
                             Улучшение звучания голоса и состояния голосовых связок.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-log-massazh">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="log-masazh-text">
                             Косвенное влияние на отделы головного мозга, отвечающие за речь.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-log-massazh">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="log-masazh-text">
                             Нормализация затруднённого дыхания.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-log-massazh">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="log-masazh-text">
                             Повышения контроля ребёнка над движениями своих лицевых мышц, языка.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-log-massazh">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="log-masazh-text">
                             Нормализация тонуса мышц речевого аппарата, лицевых мышц.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-log-massazh">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="log-masazh-text">
                             Укрепление глоточного рефлекса.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-log-massazh">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="log-masazh-text">
                             Понижение гипертонуса при спастичности.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-log-massazh">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="log-masazh-text">
                             Снижение слюноотделения.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-log-massazh">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="log-masazh-text">
                             Уменьшение психологического дискомфорта и эмоциональных зажимов.
                         </span>
                     </div>

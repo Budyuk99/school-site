@@ -16,6 +16,11 @@
 
     <section class="internal-page">
         <h1 class="header-for-page">НЕЙРОФИТНЕС</h1>
+    </section>
+
+    <div class="internal-banner-consultaciya-logopeda"></div>
+
+    <section class="internal-page internal-page-part-2">
         <div class="internal-banner-2"></div>
         <div>
             <div class="internal-page-content-block">
@@ -23,66 +28,42 @@
                 <h2 class="internal-page-content-block-header">У вашего школьника будет возможность...</h2>
                 <div class="internal-page-flex-block">
                     <div class="internal-page-flex-item internal-page-flex-item-neirofitnes">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejro-text">
                             Повысить учебную мотивацию.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-neirofitnes">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejro-text">
                             Улучшить чтение и письмо.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-neirofitnes">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejro-text">
                             Развить лидерские качества.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-neirofitnes">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejro-text">
                             Задействовать все отделы головного мозга.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-neirofitnes">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejro-text">
                             Увеличить скорость переработки информации.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-neirofitnes">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejro-text">
                             Зарядиться энергией на новую четверть.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-neirofitnes">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejro-text">
                             Весело и интересно провести время.
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-neirofitnes">
-                        <div>
-                            <img src="/img/icons8.svg" alt="">
-                        </div> 
-                        <span>
+                        <span class="nejro-text">
                             Развить память, внимание, работоспособность и интерес к учебным задачам.
                         </span>
                     </div>
