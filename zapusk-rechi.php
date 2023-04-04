@@ -18,7 +18,7 @@
         <h1 id="zapusk-rechi" class="header-for-page">ЗАПУСК РЕЧИ У НЕГОВОРЯЩИХ ДЕТЕЙ ОТ НУЛЯ ДО ФРАЗОВОЙ РЕЧИ</h1>
     </section>
 
-        <div class="internal-banner-zapusk-rechi"></div>
+    <div class="internal-banner-zapusk-rechi"></div>
 
     <section class="internal-page internal-page-part-2">
         <div>

@@ -83,7 +83,7 @@
                     </span>
                 </menuitem>
                 <menuitem class="header__menuitem header__menuitem_flex-item">
-                    <a href="#" class="subsection-btn subsection-btn-without-sub">ОТЗЫВЫ</a>
+                    <a href="/otzivy.php" class="subsection-btn subsection-btn-without-sub">ОТЗЫВЫ</a>
                 </menuitem>
                 <menuitem class="header__menuitem header__menuitem_flex-item">
                     <a href="#" class="subsection-btn subsection-btn-without-sub">КОМАНДА</a>
@@ -168,7 +168,7 @@
                             <li><a href="/infolife.php">Тестирование индивидуальных особенностей по отпечаткам пальцев InfoLife</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Отзывы</a></li>
+                    <li><a href="/otzivy.php">Отзывы</a></li>
                     <li><a href="#">Команда</a></li>
                 </ul>
             </div>

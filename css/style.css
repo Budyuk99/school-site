@@ -370,8 +370,98 @@ body, html {
     flex-basis: 60%;
 }
 
+.internal-banner-afk {
+    background: url('/img/banners/afk-new.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 560px;
+    width: 74%;
+    margin: auto;
+}
+
 .internal-banner-consultaciya-logopeda {
-    background: url('/img/consult-logopeda.jpg');
+    background: url('/img/banners/consult-logopeda-new.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 560px;
+    width: 74%;
+    margin: auto;
+}
+
+.internal-banner-consultaciya-nejropsihologa {
+    background: url('/img/banners/cons-nejropsih-new.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 560px;
+    width: 74%;
+    margin: auto;
+}
+
+.internal-banner-consultaciya-psihologa {
+    background: url('/img/banners/cons-psih-new.jpg');
+    background-size: cover;
+    background-position: 25% 30%;
+    height: 560px;
+    width: 74%;
+    margin: auto;
+}
+
+.internal-banner-correkciya-zvykoproiznosheniya {
+    background: url('/img/banners/correkciya-zvykoproiznosheniya-new.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 560px;
+    width: 74%;
+    margin: auto;
+}
+
+.internal-banner-diagnostica-moho {
+    background: url('/img/banners/diagnostica-moho-new.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 560px;
+    width: 74%;
+    margin: auto;
+}
+
+.internal-banner-forbrain {
+    background: url('/img/banners/forbrain-new.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 560px;
+    width: 74%;
+    margin: auto;
+}
+
+.internal-banner-individyalnie-zanyatiya-s-nejropsihologom {
+    background: url('/img/banners/individyalnie-zanyatiya-s-nejropsihologom-new.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 560px;
+    width: 74%;
+    margin: auto;
+}
+
+.internal-banner-infolife {
+    background: url('/img/banners/infolife-new.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 560px;
+    width: 74%;
+    margin: auto;
+}
+
+.internal-banner-logopedicheskij-massazh {
+    background: url('/img/banners/logopedicheskij-massazh-new.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 560px;
+    width: 74%;
+    margin: auto;
+}
+
+.internal-banner-micropolyarizaciya {
+    background: url('/img/banners/micropolyarizaciya-new.jpg');
     background-size: cover;
     background-position: center;
     height: 560px;
@@ -380,53 +470,13 @@ body, html {
 }
 
 .internal-banner-zapusk-rechi {
-    background: url('/img/test.jpg');
+    background: url('/img/banners/zapusk-rechi-new.jpg');
     background-size: cover;
     background-position: center;
     height: 560px;
     width: 74%;
     margin: auto;
 }
-
-/* .internal-banner-1 {
-    background: url('/img/photo_2022-10-31_21-28-37.jpg');
-    background-size: cover;
-    background-position: center;
-    height: 600px;
-    width: 1000px;
-    margin: auto;
-    box-shadow: 1px 1px 6px #494949, -1px 1px 6px #494949;
-}
-
-.internal-banner-2 {
-    background: url('/img/photo_2022-10-31_19-22-43.jpg');
-    background-size: cover;
-    background-position: center;
-    height: 600px;
-    width: 1000px;
-    margin: auto;
-    box-shadow: 1px 1px 6px #494949, -1px 1px 6px #494949;
-}
-
-.internal-banner-3 {
-    background: url('/img/photo_2022-10-31_19-37-00.jpg');
-    background-size: cover;
-    background-position: center bottom -88px;
-    height: 600px;
-    width: 1000px;
-    margin: auto;
-    box-shadow: 1px 1px 6px #494949, -1px 1px 6px #494949;
-}
-
-.internal-banner-4 {
-    background: url('/img/photo_2023-02-13_14-19-15.jpg');
-    background-size: cover;
-    background-position: bottom;
-    height: 600px;
-    width: 1000px;
-    margin: auto;
-    box-shadow: 1px 1px 6px #494949, -1px 1px 6px #494949;
-} */
 
 .internal-page-flex-block {
     display: flex;
@@ -607,6 +657,7 @@ body, html {
     flex-wrap: wrap;
     padding: 0px 30px;
     margin: 0;
+    border-top: solid 1px #EBEBF0;
 }
 
 .zanyatiya-flex-item {
@@ -615,8 +666,7 @@ body, html {
     color: #828A99;
     font-size: 18px;
     padding: 30px;
-    flex-grow: 1;
-    /* border-top: solid 1px #EBEBF0; */
+    flex-grow: unset;
     line-height: 32px;
     font-style: italic;
 }
@@ -910,6 +960,7 @@ body, html {
     padding-left: 20px;
     height: 100%;
     border-bottom: solid 1px #EBEBF0;
+    flex: 1;
 }
 
 .internal-page-flex-item-nejrobika {
@@ -921,6 +972,7 @@ body, html {
     padding-left: 20px;
     height: 100%;
     border-bottom: solid 1px #EBEBF0;
+    flex: 1;
 }
 
 .internal-page-flex-item-afk-new {
@@ -1002,6 +1054,7 @@ body, html {
     padding-left: 20px;
     height: 100%;
     border-bottom: solid 1px #EBEBF0;
+    flex: 1;
 }
 
 .ind-zanyat-text {
@@ -1036,12 +1089,14 @@ body, html {
     padding-left: 20px;
     height: 100%;
     border-bottom: solid 1px #EBEBF0;
+    flex: 1;
 }
 
 .micro-text {
     padding-left: 20px;
     height: 100%;
     border-bottom: solid 1px #EBEBF0;
+    flex: 1;
 }
 
 .oksigeno-text {
@@ -1151,6 +1206,7 @@ body, html {
     padding-left: 20px;
     height: 100%;
     border-bottom: solid 1px #EBEBF0;
+    flex: 1;
 }
 
 .log-masazh-text {
@@ -1170,6 +1226,7 @@ body, html {
     padding-left: 20px;
     height: 100%;
     border-bottom: solid 1px #EBEBF0;
+    flex: 1;
 }
 
 .nejrobika-text {
@@ -1189,6 +1246,39 @@ body, html {
     height: 100%;
     border-bottom: solid 1px #EBEBF0;
     flex: 1;
+}
+
+.review-block {
+    display: flex;
+    margin: 30px 0;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.review-item {
+    flex-basis: 31.33%;
+    flex-grow: 1;
+    height: 560px;
+}
+
+.review-item a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.review-item a img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    transition: 0.1s;
+    border-left: solid 1px #EBEBF0;
+    border-right: solid 1px #EBEBF0;
+}
+
+.review-item a img:hover {
+    border-left: solid 1px #f4cc78;
+    border-right: solid 1px #f4cc78;
 }
 
 @media (max-width: 1600px) {
@@ -1354,6 +1444,20 @@ body, html {
     .moho-text {
         height: auto;
     }
+
+    .review-block {
+        flex-wrap: wrap;
+        box-sizing: border-box;
+        justify-content: space-between;
+    }
+
+    .review-item {
+        flex: 1;
+        flex-grow: 1;
+        height: 560px;
+        flex-basis: 31%;
+        flex-grow: unset;
+    }
 }
 
 @media (min-width: 993px) {
@@ -1446,6 +1550,16 @@ body, html {
 
     .soundsory-text {
         height: auto;
+    }
+
+    .review-block {
+        justify-content: unset;
+        gap: 10px;
+    }
+
+    .review-item {
+        flex-basis: 48%;
+        flex-grow: 1;
     }
 }
 
@@ -1601,5 +1715,9 @@ body, html {
 
     .afk-new-text {
         height: auto;
+    }
+
+    .review-block {
+        flex-direction: column;
     }
 }

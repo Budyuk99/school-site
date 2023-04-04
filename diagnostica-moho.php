@@ -18,10 +18,9 @@
         <h1 class="header-for-page">ДИАГНОСТИКА MOXO</h1>
     </section>
 
-    <div class="internal-banner-consultaciya-logopeda"></div>
+    <div class="internal-banner-diagnostica-moho"></div>
     
     <section class="internal-page internal-page-part-2">
-        <div class="internal-banner-2"></div>
         <div>
             <div class="internal-page-content-block">
                 <span class="internal-page-parents-text">
