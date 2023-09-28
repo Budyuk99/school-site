@@ -18,7 +18,7 @@
         <h1 class="header-for-page">НЕЙРОПСИХОЛОГИЧЕСКАЯ ДИАГНОСТИКА</h1>
     </section>
 
-    <div class="internal-banner-consultaciya-logopeda"></div>
+    <div class="internal-banner-neijro-diagnostika"></div>
 
     <section class="internal-page internal-page-part-2">
         <div class="internal-banner-1"></div>

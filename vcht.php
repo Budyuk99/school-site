@@ -18,7 +18,7 @@
         <h1 class="header-for-page">ВЫСОКОЧАСТОТНАЯ ТЕРАПИЯ ЗВУКОМ</h1>
     </section>
 
-    <div class="internal-banner-consultaciya-logopeda"></div>
+    <div class="internal-banner-vcht"></div>
 
     <section class="internal-page internal-page-part-2">
         <div class="internal-banner-2"></div>
@@ -43,7 +43,7 @@
                 <div class="internal-page-flex-block">
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
                         <span class="vcht-text-2">
-                            СЕНСОРНАЯ АЛАЛИЯ.
+                            СЕНСОРНАЯ АЛАЛИЯ
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
@@ -53,32 +53,32 @@
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
                         <span class="vcht-text-2">
-                            ЛЮБЫЕ ЗАДЕРЖКИ РЕЧЕВОГО РАЗВИТИЯ (ОНР).
+                            ЛЮБЫЕ ЗАДЕРЖКИ РЕЧЕВОГО РАЗВИТИЯ (ОНР)
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
                         <span class="vcht-text-2">
-                            Аутизм и расстрои‌ства аутичного спектра (аутичныи‌ синдром, частично синдром Каннера и Аспергера).
+                            Аутизм и расстрои‌ства аутичного спектра (аутичныи‌ синдром, частично синдром Каннера и Аспергера)
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
                         <span class="vcht-text-2">
-                            ЗПР.
+                            ЗПР
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
                         <span class="vcht-text-2">
-                            СДВГ.
+                            СДВГ
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
                         <span class="vcht-text-2">
-                            Нарушение социализации - ребенок не реагирует на других детей, не играет в обычные игры.
+                            Нарушение социализации - ребенок не реагирует на других детей, не играет в обычные игры
                         </span>
                     </div>
                     <div class="internal-page-flex-item internal-page-flex-item-afk">
                         <span class="vcht-text-2">
-                            Нарушения грубои‌ и тонкои‌ моторики.
+                            Нарушения грубои‌ и тонкои‌ моторики
                         </span>
                     </div>
                 </div>

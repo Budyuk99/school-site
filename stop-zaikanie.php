@@ -18,7 +18,7 @@
         <h1 id="stop-zaikanie" class="header-for-page">КУРС "ЗАИКАНИЕ STOP"</h1>
     </section>
 
-    <div class="internal-banner-consultaciya-logopeda"></div>
+    <div class="internal-banner-stop-zaikanie"></div>
 
     <section class="internal-page internal-page-part-2">
         <div class="internal-banner-4"></div>

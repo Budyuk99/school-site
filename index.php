@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css">
     <link type="image/svg+xml" href="/favicon.svg" rel="shortcut icon">
 
-    <title>Ashot School</title>
+    <title>Главная страница</title>
 </head>
 <body>
     <?php require_once 'templates/parts/header.php'; ?>

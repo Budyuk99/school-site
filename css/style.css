@@ -371,7 +371,17 @@ body, html {
 }
 
 .internal-banner-afk {
-    background: url('/img/banners/afk-new.jpg');
+    background: url('/img/banners/IMG_7117.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 560px;
+    width: 74%;
+    margin: auto;
+    background-position-y: -60px;
+}
+
+.internal-banner-consultaciya-logopeda {
+    background: url('/img/banners/IMG_0462.jpg');
     background-size: cover;
     background-position: center;
     height: 560px;
@@ -379,8 +389,26 @@ body, html {
     margin: auto;
 }
 
-.internal-banner-consultaciya-logopeda {
-    background: url('/img/banners/consult-logopeda-new.jpg');
+.internal-banner-stop-zaikanie {
+    background: url('/img/banners/IMG_2031_1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 560px;
+    width: 74%;
+    margin: auto;
+}
+
+.internal-banner-neirofitnes {
+    background: url('/img/banners/IMG_7195.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 560px;
+    width: 74%;
+    margin: auto;
+}
+
+.internal-banner-neijro-diagnostika {
+    background: url('/img/banners/IMG_7103.jpg');
     background-size: cover;
     background-position: center;
     height: 560px;
@@ -398,16 +426,26 @@ body, html {
 }
 
 .internal-banner-consultaciya-psihologa {
-    background: url('/img/banners/cons-psih-new.jpg');
+    background: url('/img/banners/photo_2023-09-10_15-09-12.jpg');
     background-size: cover;
     background-position: 25% 30%;
+    height: 560px;
+    width: 74%;
+    margin: auto;
+    background-position-y: -440px;
+}
+
+.internal-banner-nejrobika {
+    background: url('/img/banners/nejrobika.jpg');
+    background-size: cover;
+    background-position: center;
     height: 560px;
     width: 74%;
     margin: auto;
 }
 
 .internal-banner-correkciya-zvykoproiznosheniya {
-    background: url('/img/banners/correkciya-zvykoproiznosheniya-new.jpg');
+    background: url('/img/banners/IMG_1861.jpg');
     background-size: cover;
     background-position: center;
     height: 560px;
@@ -416,7 +454,17 @@ body, html {
 }
 
 .internal-banner-diagnostica-moho {
-    background: url('/img/banners/diagnostica-moho-new.jpg');
+    background: url('/img/banners/IMG_1846.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 560px;
+    width: 74%;
+    margin: auto;
+    background-position-y: -120px;
+}
+
+.internal-banner-forbrain {
+    background: url('/img/banners/photo_2023-09-10_14-59-45.jpg');
     background-size: cover;
     background-position: center;
     height: 560px;
@@ -424,13 +472,14 @@ body, html {
     margin: auto;
 }
 
-.internal-banner-forbrain {
-    background: url('/img/banners/forbrain-new.jpg');
+.internal-banner-soundsorry {
+    background: url('/img/banners/photo_2023-09-10_15-03-15.jpg');
     background-size: cover;
     background-position: center;
     height: 560px;
     width: 74%;
     margin: auto;
+    background-position-y: -340px;
 }
 
 .internal-banner-individyalnie-zanyatiya-s-nejropsihologom {
@@ -440,28 +489,31 @@ body, html {
     height: 560px;
     width: 74%;
     margin: auto;
+    background-position-y: -720px;
 }
 
 .internal-banner-infolife {
-    background: url('/img/banners/infolife-new.jpg');
+    background: url('/img/banners/photo_2023-09-10_15-04-57.jpg');
     background-size: cover;
     background-position: center;
     height: 560px;
     width: 74%;
     margin: auto;
+    background-position-y: -480px;
 }
 
 .internal-banner-logopedicheskij-massazh {
-    background: url('/img/banners/logopedicheskij-massazh-new.jpg');
+    background: url('/img/banners/IMG_7225.jpg');
     background-size: cover;
     background-position: center;
     height: 560px;
     width: 74%;
     margin: auto;
+    background-position-y: -280px;
 }
 
 .internal-banner-micropolyarizaciya {
-    background: url('/img/banners/micropolyarizaciya-new.jpg');
+    background: url('/img/banners/photo_2023-09-10_14-57-35.jpg');
     background-size: cover;
     background-position: center;
     height: 560px;
@@ -469,8 +521,36 @@ body, html {
     margin: auto;
 }
 
+.internal-banner-oksigenoterapia {
+    background: url('/img/banners/photo_2023-09-10_14-58-10.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 560px;
+    width: 74%;
+    margin: auto;
+    background-position-y: -80px;
+}
+
 .internal-banner-zapusk-rechi {
-    background: url('/img/banners/zapusk-rechi-new.jpg');
+    background: url('/img/banners/IMG_0261.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 560px;
+    width: 74%;
+    margin: auto;
+}
+
+.internal-banner-vcht {
+    background: url('/img/banners/photo_2023-09-10_14-39-30.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 560px;
+    width: 74%;
+    margin: auto;
+}
+
+.internal-banner-komanda {
+    background: url('/img/banners/IMG_7019.jpg');
     background-size: cover;
     background-position: center;
     height: 560px;
@@ -1281,6 +1361,41 @@ body, html {
     border-right: solid 1px #f4cc78;
 }
 
+.block-for-emloyees {
+    display: flex;
+    width: 100%;
+}
+
+.block-for-emloyees img {
+    width: 100%;
+    object-fit: cover;
+    height: 560px;
+}
+
+.internal-page-flex-item-komanda {
+    display: flex;
+    flex-direction: column;
+}
+
+.list-for-empl {
+    margin: 0;
+    list-style: square;
+}
+
+.label-for-empl {
+    font-style: normal;
+}
+
+.ul-for-team {
+    margin-bottom: 70px;
+}
+
+.komanda-text {
+    padding-left: 0; 
+    height: 100%;
+    border-bottom: solid 1px #EBEBF0;
+}
+
 @media (max-width: 1600px) {
     .zapusk-rechi-text {
         height: auto;
@@ -1319,6 +1434,10 @@ body, html {
     .internal-banner-3,
     .internal-banner-4 {
         box-shadow: unset;
+    }
+
+    .footer-part-2 ul {
+        height: auto;
     }
 }
 
@@ -1595,7 +1714,8 @@ body, html {
     }
 
     .internal-page-flex-item {
-        gap: 5%;
+        gap: 2%;
+        padding: 20px 0;
     }
 
     .internal-page-flex-item-more-reverse {
@@ -1663,6 +1783,20 @@ body, html {
         width: 100%;
         object-fit: contain;
     }
+
+    .internal-banner-zapusk-rechi,
+    .internal-banner-micropolyarizaciya,
+    .internal-banner-logopedicheskij-massazh,
+    .internal-banner-infolife,
+    .internal-banner-individyalnie-zanyatiya-s-nejropsihologom,
+    .internal-banner-forbrain,
+    .internal-banner-diagnostica-moho,
+    .internal-banner-correkciya-zvykoproiznosheniya,
+    .internal-banner-consultaciya-psihologa,
+    .internal-banner-consultaciya-nejropsihologa,
+    .internal-banner-afk {
+        width: 95%;
+    }
 }
 
 @media (max-width: 480px) {
@@ -1690,6 +1824,7 @@ body, html {
         display: flex;
         flex-wrap: wrap;
         padding: 0;
+        gap: 20px;
     }
 
     .internal-page {

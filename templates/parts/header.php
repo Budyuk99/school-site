@@ -32,7 +32,7 @@
                                 <menuitem><a href="/individyalnie-zanyatiya-s-nejropsihologom.php">Индивидуальные занятия с нейропсихологом</a></menuitem>
                                 <menuitem><a href="/neirofitnes.php">Интенсив нейрофитнес</a></menuitem>
                                 <menuitem><a href="/diagnostica-moho.php">Диагностика внимания и гиперактивности МОХО</a></menuitem>
-                                <menuitem><a href="#">Сенсорная интеграция</a></menuitem>
+                                <menuitem><a href="/sensornaya-integraciya.php">Сенсорная интеграция</a></menuitem>
                             </menu>
                         </div>
                     </span>
@@ -86,7 +86,7 @@
                     <a href="/otzivy.php" class="subsection-btn subsection-btn-without-sub">ОТЗЫВЫ</a>
                 </menuitem>
                 <menuitem class="header__menuitem header__menuitem_flex-item">
-                    <a href="#" class="subsection-btn subsection-btn-without-sub">КОМАНДА</a>
+                    <a href="/komanda.php" class="subsection-btn subsection-btn-without-sub">КОМАНДА</a>
                 </menuitem>
             </menu>
         </div>
@@ -122,7 +122,7 @@
                 </div>
             </div>
             <div class="mobile_menu_flex_container_opened_second">
-                <ul>
+                <ul class="ul-for-team">
                     <li>
                         <span>Логопедические услуги</span>
                         <ul>
@@ -141,7 +141,7 @@
                             <li><a href="/individyalnie-zanyatiya-s-nejropsihologom.php">Индивидуальные занятия с нейропсихологом</a></li>
                             <li><a href="/neirofitnes.php">Интенсив нейрофитнес</a></li>
                             <li><a href="/diagnostica-moho.php">Диагностика внимания и гиперактивности МОХО</a></li>
-                            <li><a href="#">Сенсорная интеграция</a></li>
+                            <li><a href="/sensornaya-integraciya.php">Сенсорная интеграция</a></li>
                         </ul>
                     </li>
                     <li>
@@ -169,7 +169,7 @@
                         </ul>
                     </li>
                     <li><a href="/otzivy.php">Отзывы</a></li>
-                    <li><a href="#">Команда</a></li>
+                    <li><a href="/komanda.php">Команда</a></li>
                 </ul>
             </div>
         </div>

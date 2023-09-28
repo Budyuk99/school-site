@@ -9,14 +9,14 @@
             <div class="footer-part-2">
                 <p class="footer-2__item">Курсы Радуга</p>
                 <ul>
-                    <li><a href="#">Главная</a></li>
-                    <li><a href="#">Статьи</a></li>
-                    <li><a href="#">Фотогалерея</a></li>
-                    <li><a href="#">Контакты</a></li>
-                    <li><a href="#">Наши студии</a></li>
-                    <li><a href="#">Преподаватели</a></li>
-                    <li><a href="#">Цены и скидки</a></li>
-                    <li><a href="#">Отзывы клиентов</a></li>
+                    <li><a href="/">Главная</a></li>
+                    <li><a href="/otzivy.php">Отзывы</a></li>
+                    <li><a href="/komanda.php">Команда</a></li>
+                    <li><a href="/consultaciya-logopeda.php">Логопедические услуги</a></li>
+                    <li><a href="/consultaciya-nejropsihologa.php">Нейрокоррекция</a></li>
+                    <li><a href="/afk.php">АФК</a></li>
+                    <li><a href="/vcht.php">Аппаратные методики</a></li>
+                    <li><a href="/consultaciya-psihologa.php">Услуги психолога</a></li>
                 </ul>
             </div>
             <div class="footer-part-3">
@@ -38,6 +38,6 @@
 
         <div class="footer-down">
             <div class="footer-down-1">© 2023 «Радуга». Все права защищены.</div>
-            <div class="footer-down-3">Сделано <a href="https://www.linkedin.com/in/nikita-budyuk-8baa31261" target="_blank">linkedin.com/in/nikita-budyuk-8baa31261</a></div>
+            <div class="footer-down-3"><a href="https://www.linkedin.com/in/nikita-budyuk-8baa31261" target="_blank">linkedin.com/in/nikita-budyuk-8baa31261</a></div>
         </div>
     </footer>
